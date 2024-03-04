@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba a <GifItem /> Hacer match con el spanshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Tu hermana"
+      src="https://media4.giphy.com/media/UPYCIVX3ABQoLAGO7W/giphy.gif?cid=ffddb294jme2owkru490riardwfc23ijeoy1edebeartqe7b&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Tu hermana
+    </p>
+  </div>
+</div>
+`;
